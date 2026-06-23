@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/beso-de-fuego/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Beso de fuego](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/beso-de-fuego/) |
+| **Get License** | [Get a Licensing Quote for Beso de fuego](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/beso-de-fuego/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `9e2ac8787415517214f30de49223d8646810fb6e06e43254c20c7e91da7af29a` |
 | **Timestamp** | June 23, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
